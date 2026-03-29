@@ -1,2 +1,6 @@
 # Leetcode-Record-Louisa
-Louisa's personal leetcode record
+
+## Overview
+### Leetcode Record 
+### Errors Record
+### To-do-Record
